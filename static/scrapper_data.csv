@@ -1,0 +1,4 @@
+,_id,product_name,product_searched,price,offer_details,discount_percent,EMI,rating,comment,customer_name,review_age
+0,604cceef54f3e7ad422a7116,"APPLE iPhone 7 (Gold, 32 GB)",iphone7,"₹24,999",[],20% off,NO EMI Plans,5,Must buy!,Ezzazuddin Huseni,"Oct, 2019"
+1,604ccef054f3e7ad422a7118,"APPLE iPhone 7 (Gold, 32 GB)",iphone7,"₹24,999",[],20% off,NO EMI Plans,4,Pretty good,suresh b,"Nov, 2018"
+2,604ccef254f3e7ad422a711a,"APPLE iPhone 7 (Gold, 32 GB)",iphone7,"₹24,999",[],20% off,NO EMI Plans,4,Pretty good,Flipkart Customer,"Nov, 2019"
